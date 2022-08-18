@@ -1,4 +1,4 @@
-# SmartBrain-api
+# face detection
 By ayush pandey
 1. Run `npm install`
 2. Run `npm start`
